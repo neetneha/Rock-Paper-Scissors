@@ -11,4 +11,6 @@ REV_CLASS_MAP = {
  2: "scissors",
  3: "none"
 }
-  
+ 
+ 
+def mapper(val):
