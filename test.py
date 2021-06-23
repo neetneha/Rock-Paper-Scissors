@@ -10,5 +10,5 @@ REV_CLASS_MAP = {
  1: "paper",
  2: "scissors",
  3: "none"
-#}
+}
   
