@@ -9,6 +9,6 @@ REV_CLASS_MAP = {
  0: "rock",
  1: "paper",
  2: "scissors",
- # 3: "none"
+ 3: "none"
 #}
   
