@@ -6,8 +6,8 @@ import sys
 filepath = sys.argv[1]
 
 REV_CLASS_MAP = {
-  0: "rock",
- # 1: "paper",
+ 0: "rock",
+ 1: "paper",
  # 2: "scissors",
  # 3: "none"
 #}
