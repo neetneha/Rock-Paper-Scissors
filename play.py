@@ -7,6 +7,7 @@ REV_CLASS_MAP = {
     0: "rock",
     1: "paper",
     
+    
   
   
   
