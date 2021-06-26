@@ -14,5 +14,5 @@ REV_CLASS_MAP = {
  
  
 def mapper(val):
-    return REV_CLASS_MAP[val
+    return REV_CLASS_MAP[val]
  
