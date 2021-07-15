@@ -19,6 +19,7 @@ def calculate_winner(move1, move2):
     if move1 == move2:
         return "Tie"
 
+    if move1 == "rock":
     
     
   
