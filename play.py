@@ -15,7 +15,7 @@ def mapper(val):
     return REV_CLASS_MAP[val]
 
 
-
+def winner_
 
     
     
