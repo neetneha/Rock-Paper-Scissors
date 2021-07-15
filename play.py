@@ -20,6 +20,7 @@ def calculate_winner(move1, move2):
         return "Tie"
 
     if move1 == "rock":
+        if move2 == "scissors":
     
     
   
