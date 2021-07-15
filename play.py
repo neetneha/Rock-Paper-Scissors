@@ -16,6 +16,7 @@ def mapper(val):
 
 
 def calculate_winner(move1, move2):
+    if move1 == move2:
 
     
     
