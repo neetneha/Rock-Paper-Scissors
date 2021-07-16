@@ -28,6 +28,7 @@ def calculate_winner(move1, move2):
      if move1 == "paper":
         if move2 == "rock":
             return "User"
+         if move2 == "scissors":
     
     
   
