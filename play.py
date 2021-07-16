@@ -24,6 +24,8 @@ def calculate_winner(move1, move2):
              return "User"
         if move2 == "paper":
             return "Computer"
+        
+     if move1 == "paper":
     
     
   
