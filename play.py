@@ -38,7 +38,7 @@ def calculate_winner(move1, move2):
              return "Computer"
         
         
-    
+model = load_model("rock-paper-scissors-model.h5")
   
   
   
