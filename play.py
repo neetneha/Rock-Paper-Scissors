@@ -30,7 +30,9 @@ def calculate_winner(move1, move2):
             return "User"
          if move2 == "scissors":
                 return "Computer"
-    
+            
+    if move1 == "scissors":
+        
     
   
   
