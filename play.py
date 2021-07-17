@@ -47,6 +47,8 @@ prev_move = None
 
 while True:
     ret, frame = cap.read()
+    if not ret:
+        continue
     
 
 
