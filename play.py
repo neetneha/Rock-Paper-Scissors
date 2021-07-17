@@ -45,6 +45,9 @@ cap = cv2.VideoCapture(0)
  
 prev_move = None
 
+while True:
+
+
   
   
   
