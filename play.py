@@ -50,6 +50,8 @@ while True:
     if not ret:
         continue
         
+    # rectangle for user to play
+        
         
         
     
