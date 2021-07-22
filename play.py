@@ -51,6 +51,7 @@ while True:
         continue
         
     # rectangle for user to play
+    cv2.rectangle(frame, (100, 100), (500, 500), (255, 255, 255), 2)
         
         
         
